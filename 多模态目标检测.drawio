@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T06:46:05.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Wz72jKEgiE5o7i-szrGZ" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T06:54:10.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="L-zCnjDc0vHqx7n06Do5" version="23.1.1" type="github">
   <diagram name="第 1 页" id="wcXFdS2mSCeuYjx8Xm_4">
-    <mxGraphModel dx="889" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="741" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,8 +61,11 @@
             <mxPoint x="399.3" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dMKvnlfOrxEBAoyZr1T4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dMKvnlfOrxEBAoyZr1T4-16" target="dMKvnlfOrxEBAoyZr1T4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-16" value="Multimodal Shared Box&lt;br&gt;Reg&amp;nbsp;Head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="190" width="99" height="65" as="geometry" />
+          <mxGeometry x="1032" y="186" width="99" height="65" as="geometry" />
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-19" value="GAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="352.5" width="99" height="65" as="geometry" />
@@ -88,19 +91,19 @@
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-26" value="Matching&lt;br&gt;Loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945.5" y="599" width="99" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="dMKvnlfOrxEBAoyZr1T4-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dMKvnlfOrxEBAoyZr1T4-44">
+        <mxCell id="dMKvnlfOrxEBAoyZr1T4-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.479;exitY=0.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dMKvnlfOrxEBAoyZr1T4-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="275" as="sourcePoint" />
-            <mxPoint x="1170" y="225" as="targetPoint" />
+            <mxPoint x="1080" y="350" as="sourcePoint" />
+            <mxPoint x="1080" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-29" value="GFL&lt;br&gt;Reg&lt;br&gt;Loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="190" width="100" height="63" as="geometry" />
+          <mxGeometry x="1331" y="185" width="100" height="63" as="geometry" />
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1330" y="225" as="sourcePoint" />
-            <mxPoint x="1268.52" y="225" as="targetPoint" />
+            <mxPoint x="1331" y="220" as="sourcePoint" />
+            <mxPoint x="1269.52" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-32" value="Softmax&lt;br&gt;Loss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -165,6 +168,9 @@
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-51" value="Matched Feature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMKvnlfOrxEBAoyZr1T4-53" value="box&lt;br&gt;coordinates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="193.5" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
