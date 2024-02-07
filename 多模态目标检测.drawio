@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T13:42:46.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iTN1HdsOXnH5tsBWnow8" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T14:30:50.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_KGYh73e2ZsYhHnWjhDM" version="22.1.15" type="github">
   <diagram name="第 1 页" id="wcXFdS2mSCeuYjx8Xm_4">
-    <mxGraphModel dx="1500" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yyqd_GTbu8QD_EjG9LZX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="yyqd_GTbu8QD_EjG9LZX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="56" y="148" width="974" height="530" as="geometry" />
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-1" value="Image" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
             <mxPoint x="1269.52" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dMKvnlfOrxEBAoyZr1T4-32" value="Softmax&lt;br&gt;Loss" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dMKvnlfOrxEBAoyZr1T4-32" value="BCE Loss" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1335" y="352.5" width="100" height="63" as="geometry" />
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dMKvnlfOrxEBAoyZr1T4-32" edge="1">
@@ -142,7 +142,7 @@
             <mxPoint x="979.11" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dMKvnlfOrxEBAoyZr1T4-40" value="Softmax&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Loss" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dMKvnlfOrxEBAoyZr1T4-40" value="BCE Loss" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="811" y="598" width="99" height="65" as="geometry" />
         </mxCell>
         <mxCell id="dMKvnlfOrxEBAoyZr1T4-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.553;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
