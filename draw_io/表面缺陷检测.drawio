@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:36:19.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ACoN4UIP1ei-mA3PqDnL" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T15:37:52.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tPHxweI48kSsNyfDPccx" version="23.1.1" type="github">
   <diagram name="第 1 页" id="5SDLZTdB81DL5kM8xQA1">
     <mxGraphModel dx="1050" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -8,19 +8,22 @@
           <mxGeometry x="310" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpHuJ51E53qwbFPcT9pl-2" value="大图预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="449" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpHuJ51E53qwbFPcT9pl-3" value="大图上的缺陷检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="588" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpHuJ51E53qwbFPcT9pl-4" value="根据大图ROI区域切小图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="727" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpHuJ51E53qwbFPcT9pl-6" value="小图预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="949" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="866" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YpHuJ51E53qwbFPcT9pl-7" value="小图上的目标检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="1005" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YpHuJ51E53qwbFPcT9pl-8" value="检测结果合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="210" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
