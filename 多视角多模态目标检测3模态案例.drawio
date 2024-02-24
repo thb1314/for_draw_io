@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T13:46:55.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KHDdSH3iLbcuykzN8Uy2" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T13:50:07.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nfAWHBrTM1ns7NZOwrLE" version="23.1.2" type="github">
   <diagram name="第 1 页" id="z2M5c4vALER3vp60Q3NO">
-    <mxGraphModel dx="350" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,18 @@
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-20" value="Common Space&lt;br&gt;Convert Matrix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="352.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HAOtPfupm4dBEVP8952R-21" value="候选检测区域特征生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HAOtPfupm4dBEVP8952R-22" value="检测实例多模态特征匹配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HAOtPfupm4dBEVP8952R-23" value="检测实例多模态特征融合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HAOtPfupm4dBEVP8952R-24" value="目标定位与分类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="220" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
