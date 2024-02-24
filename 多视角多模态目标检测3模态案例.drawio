@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T13:45:17.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QX2Xnb1vRswzbFAMXZd5" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T13:45:30.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3X1jEM3DiNDW2EgzK_c1" version="23.1.2" type="github">
   <diagram name="第 1 页" id="z2M5c4vALER3vp60Q3NO">
     <mxGraphModel dx="500" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
             <mxPoint x="130" y="379.5" as="sourcePoint" />
             <mxPoint x="180" y="379.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HAOtPfupm4dBEVP8952R-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAOtPfupm4dBEVP8952R-3" target="HAOtPfupm4dBEVP8952R-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-3" value="Region Proposal&lt;br&gt;Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="352.5" width="110" height="55" as="geometry" />
@@ -37,7 +40,7 @@
           <mxGeometry x="780" y="332.5" width="99" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-18" value="Global Average&lt;br&gt;Pooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="350" width="110" height="55" as="geometry" />
+          <mxGeometry x="340" y="352.5" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
