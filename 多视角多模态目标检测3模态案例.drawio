@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T02:26:05.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="v3t38RTlFHNvgtxk9Z_l" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T02:26:49.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MvvgJRLaoT4l9sY-z3eY" version="23.1.6" type="github">
   <diagram name="第 1 页" id="z2M5c4vALER3vp60Q3NO">
-    <mxGraphModel dx="840" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="488" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,31 +23,31 @@
           <mxGeometry x="780" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-87" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="352" width="90" height="55" as="geometry" />
+          <mxGeometry x="540" y="352.5" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="620" y="360" width="20" height="20" as="geometry" />
+          <mxGeometry x="560" y="360.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="650" y="360" width="20" height="20" as="geometry" />
+          <mxGeometry x="590" y="360.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-91" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="620" y="380" width="20" height="20" as="geometry" />
+          <mxGeometry x="560" y="380.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="610" y="369.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="550" y="370" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="635" y="369.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="575" y="370" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="655" y="370" width="20" height="20" as="geometry" />
+          <mxGeometry x="595" y="370.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="650" y="380" width="20" height="20" as="geometry" />
+          <mxGeometry x="590" y="380.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-96" value="Common Space Feature A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="410" width="110" height="30" as="geometry" />
+          <mxGeometry x="530" y="410.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HAOtPfupm4dBEVP8952R-97" value="Modal B&lt;br&gt;Image" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="460" width="70" height="60" as="geometry" />
@@ -549,6 +549,12 @@
         </mxCell>
         <mxCell id="AaImUm8lm9_AYytv0HaH-8" value="Common Space&lt;br&gt;Convert Matrix" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="352" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AaImUm8lm9_AYytv0HaH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="379.40999999999997" as="sourcePoint" />
+            <mxPoint x="540" y="379.40999999999997" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
